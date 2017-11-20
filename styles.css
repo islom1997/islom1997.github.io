@@ -2,21 +2,23 @@
 <head>
 <style>
 body{background-color: black;}
+a{color:green;
+  font-size:16px;}
 h1{
 	font-family: Baskerville Old Face, sans-serif;
 	font-size:38pt;
-	color:white;
+	color:green;
 	text-align:center;
 }
 p{
 	font-family: Candara Bold Italic, sans-serif;
 	font-size:15pt;
-	color: white;
+	color: green;
 }
 table{
 	font-family: Candara Bold Italic, sans-serif;
 	font-size:12pt;
-	color: white;
+	color: green;
 }
 </style>
 </head>
